@@ -1,0 +1,4 @@
+1. level order succesor
+2. Leetcode: 103 -> level order zigzag order
+3. Leetcode: 116  -> populating next right points in each node
+4. Leetcode: 199  -> Binary tree right side view
